@@ -1,2 +1,1 @@
-# grad778-f21-w11-bestsupe
-Repo to learn how to fork!
+Which superhero is the best?  Please add your proposed superhero to the "Candidate Superheroes" subfolder as "[superheroname].txt"  The file should contain a one sentence description of why you think that superhero is the best!
